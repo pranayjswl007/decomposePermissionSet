@@ -8,8 +8,5 @@
   "name": "ddEv",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "63.0",
-  "sourceBehaviorOptions": [
-    "decomposePermissionSetBeta2"
-  ]
+  "sourceApiVersion": "63.0"
 }
